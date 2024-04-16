@@ -7,7 +7,6 @@ body {
     padding: 0;
     box-sizing: border-box;
     background-image: url('./20170114-160651-largejpg.jpg')
-   
 }
 
 header, footer {
@@ -19,6 +18,7 @@ header, footer {
 
 main {
     padding: 20px;
+    display: block;
 }
 
 img {
